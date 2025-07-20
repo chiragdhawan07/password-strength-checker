@@ -28,6 +28,9 @@ git clone https://github.com/chiragdhawan07/password-strength-checker.git
 cd password-strength-checker
 python3 password_checker.py
 ```
+💡 On Windows, you can replace python3 with python.
+
+
 ### 🧾 Option 2: Copy and Run the Code Directly
 
 1. Open any Python IDE or text editor (e.g., VS Code, IDLE).
@@ -38,5 +41,6 @@ python3 password_checker.py
 ```bash
 python3 password_checker.py
 ```
+Works in any Python 3 environment—no cloning or setup required.
 
  
