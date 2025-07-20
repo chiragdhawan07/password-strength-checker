@@ -26,7 +26,7 @@ A simple and interactive Python tool to check the strength of a password based o
 ```bash
 git clone https://github.com/chiragdhawan07/password-strength-checker.git
 cd password-strength-checker
-python3 password_checker.py
+python3 password_strength_checker.py
 ```
 💡 On Windows, you can replace python3 with python.
 
@@ -39,7 +39,7 @@ python3 password_checker.py
 4. Run the file using:
 
 ```bash
-python3 password_checker.py
+python3 password_strength_checker.py
 ```
 Works in any Python 3 environment—no cloning or setup required.
 
